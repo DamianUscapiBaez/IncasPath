@@ -12,7 +12,7 @@
             <ul class="upper-links">
                 <li><a href="https://www.caminoincaspath.com/" target="_blank" class="menu-icon">ES</a></li>
                 <li>
-                    <a href="tel:+51 958 191 179" class="menu-icon phone-icon2"></a>
+                    <a href="tel:+51 999 999 999" class="menu-icon phone-icon2"></a>
 
                 </li>
                 <li>
@@ -41,7 +41,6 @@
                             Trail 4 Days</a></li>
                     <li><a href="#">incaspath
                             & Inca Trail Trek 7 Days</a></li>
-                    <!-- <li><a href=""></a></li> -->
                 </ul>
             </li>
             <li class="has-children">
@@ -59,8 +58,6 @@
                     <li><a
                             href="#">The
                             incaspath Trek Imperial 8 Days</a></li>
-                    <!-- <li><a href=""></a></li> -->
-                    <!-- <li><a href=""></a></li> -->
                 </ul>
             </li>
             <li class="has-children">
@@ -107,9 +104,6 @@
                     <li><a href="#">Ancascocha Trek</a></li>
                 </ul>
             </li>
-            <!-- <li>
-            <a href="#"><span>Special Packages</span></a>
-        </li> -->
             <li class="has-children">
                 <a href="#"><span>Cusco Day Tours</span></a>
                 <ul class="st-menu-mobile__sub-list">
@@ -148,13 +142,12 @@
         <ul class="st-menu-mobile__contact">
             <li>
                 <label>Talk to Us</label>
-                <a href="tel:+51 958 191 179" class="cta-phone"><span>+51 958 191 179</span></a>
+                <a href="tel:+51 999 999 999" class="cta-phone"><span>+51 999 999 999</span></a>
                 <label>Mon-Sun 8am-5pm PET</label>
             </li>
             <li>
                 <label>Toll Free:</label>
                 <a href="tel:1 (800) 986-4304" class="cta-phone cta-toll"><span>1 (800) 986-4304</span></a>
-                <!-- <a href="" class="cta-phone cta-toll"><span>(US)+1 800 916 9859</span></a> -->
             </li>
         </ul>
     </nav>
@@ -174,7 +167,7 @@
             <ul class="incaspath-menu__upper-list">
                 <li class="toll-free__wrapper">
                     <i class="fas fa-envelope"></i>
-                    Email: <a href="#">informes@incaspath.com</a>
+                    Email: <a href="#">informes@demo.com</a>
                 </li>
                 <li class="separator"></li>
                 <li class="toll-free__wrapper">
@@ -193,8 +186,8 @@
             <ul class="incaspath-menu__down-list">
                 <li><span class="menu-icon date">Mon-Sun 8am-5pm PET</span></li>
                 <li>
-                    <a href="tel:+51 958 191 179" class="menu-icon phone">
-                        +51 958 191 179</a>
+                    <a href="tel:+51 999 999 999" class="menu-icon phone">
+                        +51 999 999 999</a>
                 </li>
                 <li><a href="#" class="cta-contact-us">Enquire Now</a></li>
             </ul>
@@ -227,7 +220,6 @@
                                         <li><a
                                                 href="#">incaspath
                                                 & Inca Trail Trek 7 Days</a></li>
-                                        <!-- <li><a href=""></a></li> -->
                                     </ul>
                                 </div>
                                 <div class="col-md-4 col-xl-5">
@@ -264,7 +256,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/inca-trail-cusco-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="assets/img/Travel-To-Machu-Picchu-Tour-Incas-Path.jpg"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -279,7 +271,6 @@
 
                 <li>
                     <span>incaspath Trek</span>
-
                     <div class="incaspath-menu__nav--grid">
                         <div class="container_per">
                             <div class="row">
@@ -299,8 +290,6 @@
                                         <li><a
                                                 href="#">The
                                                 incaspath Trek Imperial 8 Days</a></li>
-                                        <!-- <li><a href=""></a></li> -->
-                                        <!-- <li><a href=""></a></li> -->
                                     </ul>
                                 </div>
                                 <div class="col-md-4 col-xl-5">
@@ -337,7 +326,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/incaspath-trek-cusco-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400'%3E%3C/svg%3E"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -406,7 +395,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/machu-picchu-cusco-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400'%3E%3C/svg%3E"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -474,7 +463,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/machu-picchu-cusco-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400'%3E%3C/svg%3E"
+                                                    <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -545,7 +534,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/rainbow-mountain-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 400'%3E%3C/svg%3E"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -559,8 +548,6 @@
                 </li>
                 <!-- <li><a href="#">Special Offers</a></li> -->
                 <!-- day tourss -->
-
-
                 <li>
                     <span>Day Tours</span>
                     <!-- ################ -->
@@ -578,12 +565,6 @@
                                         beyond the city limits. Here are some of the best day
                                         trips to take from Cusco for a fabulous Peruvian
                                         adventure to remember.
-
-                                        <!-- With a focus on exploration,
-                    cultural immersion and personal achievement, our
-                    adventure travel packages will challenge and inspire you
-                    as you bond with other like-minded travelers who share a
-                    love for exploring new places and cultures. -->
                                     </p>
                                 </div>
                                 <div class="col-md-4 col-xl-3">
@@ -596,7 +577,7 @@
                                                 <source
                                                     data-srcset="images/peru-tours/cusco-day-hikes-peru-tours-feature-image-600x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 400'%3E%3C/svg%3E"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
                                                     alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
@@ -678,9 +659,9 @@
                                                 <source
                                                     data-srcset="images/about-us/incaspath-trekking-company-peru-tour-operator-400x400.jpg"
                                                     type="image/jpeg">
-                                                <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 350 350'%3E%3C/svg%3E"
+                                                <img src="assets/img/banner1.jpg"
                                                     style='background-color: #eee'
-                                                    alt="Ausangate Trek, Cusco. Peru Top Destinations."
+                                                    alt="Inca Jungle, Cusco. Peru Top Destinations. "
                                                     class="lazyload" />
                                             </picture>
                                         </div>

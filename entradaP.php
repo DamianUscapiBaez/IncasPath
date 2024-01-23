@@ -2,18 +2,41 @@
 <?php include_once 'navbar.php'?>
 <main class="main">
     <!-- ==============banner================== -->
-    <section class="bannerP">
-        <div class="container">
-            <div class="row">
-                <div class="offset-md-3 col-md-6 text-center">
-                    <!-- <img src="assets/img/Travel-To-Machu-Picchu-Tour-Incas-Path.jpg" class="img-fluid" alt="Responsive image"> -->
-                    <div class="banner__desc">
-                        <h1 class="title">INCA TRAIL TREKS</h1>
-                    </div>
+    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner d-block">
+            <!-- Imágenes del carrusel -->
+            <div class="carousel-item active">
+                <img src="assets/img/banner1.jpg" class="d-block w-100" alt="Imagen 1">
+                <div class="carousel-caption">
+                    <h3>Título 1</h3>
+                    <p>Descripción 1</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="assets/img/banner2.jpg" class="d-block w-100" alt="Imagen 2">
+                <div class="carousel-caption">
+                    <h3>Título 2</h3>
+                    <p>Descripción 2</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="assets/img/banner4.jpg" class="d-block w-100" alt="Imagen 3">
+                <div class="carousel-caption">
+                    <h3>Título 3</h3>
+                    <p>Descripción 3</p>
                 </div>
             </div>
         </div>
-    </section>
+        <!-- Controles del carrusel -->
+        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
     <section class="intro">
         <div class="section-presentation">
             <h2 class="section-title">Inca Trail Treks</h2>
@@ -53,7 +76,8 @@
                         </h4>
                     </div>
                     <div class="card__body-destinations">
-                        <h3 class="body__title"><a href="entradaS.php">Short Inca Trail to Machu Picchu with Camping 2D/1N</a></h3>
+                        <h3 class="body__title"><a href="entradaS.php">Short Inca Trail to Machu Picchu with Camping
+                                2D/1N</a></h3>
                         <p class="body__description">
                             short Inca Trail hike with camping is an incredible option for those who don't have the
                             time
@@ -128,55 +152,63 @@
                     <!-- Swiper -->
                     <div class="swiper swiper-container ">
                         <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover1.jpg" alt="imagen 1">
-                                    <h5>catherine's<br />Monastery</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">Normway</h6>
+                        <div class="card swiper-slide" style="background-image: url('assets/img/place1.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Normway</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover2.jpg" alt="imagen 1">
-                                    <h5>Manali</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">India</h6>
+                            <div class="card swiper-slide" style="background-image: url('assets/img/place2.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">demo</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover3.jpg" alt="imagen 1">
-                                    <h5>zermatt</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">India</h6>
+                            <div class="card swiper-slide" style="background-image: url('assets/img/place3.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Normway</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover4.jpg" alt="imagen 1">
-                                    <h5>Zeratt</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">Switzer Land</h6>
+                            <div class="card swiper-slide" style="background-image: url('assets/img/place4.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Normway</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover1.jpg" alt="imagen 1">
-                                    <h5>Amalfi Coast</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">Italy</h6>
+                            <div class="card swiper-slide" style="background-image: url('assets/img/place5.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Normway</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-                            <div class="swiper-slide">
-                                <div class="shade">
-                                    <img src="assets/img/discover2.jpg" alt="imagen 1">
-                                    <h5>Yellowstone</h5>
-                                    <h6><img src="assets/img/pin.png" alt="pin">Australia</h6>
+                            <div class="card swiper-slide" style="background-image: url('assets/img/place1.jpg');">
+                                <div class="text-background">
+                                    <div>
+                                        <h5 class="card-title">Catherine's Monastery</h5>
+                                        <h6 class="card-subtitle mb-2 text-muted">Normway</h6>
+                                    </div>
+                                    <a href="http://localhost/IncasPath/entradaP.php" class="link">Ver más</a>
                                 </div>
                             </div>
-
                         </div>
-
                         <div class="swiper-pagination"></div>
                     </div>
-
-
                 </div>
             </div>
         </div>

@@ -21,15 +21,15 @@
                 <div class="content">
                     <div class="place">
                         <span class="fas fa-map-marker-alt"></span>
-                        <span class="text">Birendranagar, Surkhet</span>
+                        <span class="text">demo, demo</span>
                     </div>
                     <div class="phone">
                         <span class="fas fa-phone-alt"></span>
-                        <span class="text">+089-765432100</span>
+                        <span class="text">+51 999 999 999</span>
                     </div>
                     <div class="email">
                         <span class="fas fa-envelope"></span>
-                        <span class="text">abc@example.com</span>
+                        <span class="text">demo@example.com</span>
                     </div>
                 </div>
             </div>
@@ -66,13 +66,21 @@
     </footer>
 
     <!-- js bootstrao y popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
     <!-- script personalizado -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <!-- Swiper JS -->
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
     <!-- script local -->
     <script src="assets/js/script.js"></script>
+    <script>
+        $('.carousel').carousel({
+            interval: 5000 // Intervalo en milisegundos (en este caso, 5 segundos)
+        });
+    </script>
 </body>
 
 </html>
